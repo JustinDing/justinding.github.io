@@ -1,12 +1,12 @@
 # Site settings
-title: 丁老师的博客
+title: 矿哥的博客
 email: 8032780@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  丁老师的博客
+  矿哥的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://justinding.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Justin.Ding
+author: 矿哥Justin.Ding
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,14 +14,14 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: JustinDing20
+weibo: IPFS矿哥
+github: justinding
+# instagram: suyan404
+# linkedin: suyan404
 
 # avatar and Favicon
-avatar: http://imgs.yansu.org/site-avatar.png
+avatar: https://i.loli.net/2021/05/31/3vYjbmLWg5HrTMF.jpg
 favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
